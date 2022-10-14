@@ -11,7 +11,7 @@ const Details = () => {
     heading: "To get support throught the event Contact Us.",
     subHeading: "Vaidic Tiwari :- +91-8827344991 ",
     subHeading1: "Naman Sisodiya :- +91-8770200923",
-    subHeading2: "Aditya Yadav :- +91- 7869090510"
+    subHeading2: "Aaditya Yadav :- +91- 7869090510"
   });
   return (
     <div className="services">

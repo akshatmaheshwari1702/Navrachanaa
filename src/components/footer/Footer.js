@@ -23,7 +23,7 @@ const Footer = () => {
           </div>
           <div className="footer__bottom">
             {/* <p>&copy; copy right travel friends {new Date().getFullYear()}</p> */}
-            <p>Developed By Akshat Maheshwari</p>
+            <p>Developed By <a href="https://www.linkedin.com/in/akshat-maheshwari--/">Akshat Maheshwari</a></p>
           </div>
         </div>
       </div>

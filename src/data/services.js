@@ -7,17 +7,17 @@ const services = [
   {
     id: 2,
     heading: "So how much is the registration cost?",
-    p: "Registration is ₹50 per participant.",
+    p: "Registration is ₹200 per participant.",
   },
   {
     id: 3,
     heading: "What are the exciting prizes?",
-    p: "The students get Cash prizes for ₹5000 (1st place) and ₹2000 (2nd place) +gift vouchers.",
+    p: "The students get Cash prizes for ₹11000 + Exciting Gift Vouchers (1st place).",
   },
   {
     id: 4,
     heading: "What about the mentors?",
-    p: "The mentors of the winning team also get the Dronacharya award.",
+    p: "The mentors of the winning team also get the Dronacharya award and a cash prize of ₹2000.",
   },
   {
     id: 5,
