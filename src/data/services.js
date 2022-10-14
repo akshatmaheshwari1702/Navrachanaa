@@ -17,7 +17,7 @@ const services = [
   {
     id: 4,
     heading: "What about the mentors?",
-    p: "The mentors of the winning team also get the Dronacharya award and a cash prize of ₹2000.",
+    p: "The mentors of the winning team also get the Dronacharya award.",
   },
   {
     id: 5,
