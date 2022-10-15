@@ -2,7 +2,7 @@ const services = [
   {
     id: 1,
     heading: "Can the Innovators team up?",
-    p: `Yes, you can make teams of 2-4 members. (4 being the maximum teammates.— Optional)`,
+    p: `Yes, you can make teams of 3-4 members. (4 being the maximum teammates.— Optional)`,
   },
   {
     id: 2,
